@@ -10,3 +10,7 @@ module 1x2(length){
 module 2x4(length){
      cube([two,four,length*mmToIn],0);
 }
+
+module 1x4(length){
+     cube([one,four,length*mmToIn],0);
+}
