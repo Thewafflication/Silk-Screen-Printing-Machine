@@ -7,3 +7,4 @@ Goal: I want to build a device that can silk screen laminate copper boards, with
 Requirements:  So far the only requirement I know of is that I need to use the TI Launchpad MSP432 somewhere the project.  The class hasn't started yet. It starts Jan 8th.
 
 Current Work: I will be drawing the machine in FreeCad.
+62626
