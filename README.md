@@ -21,7 +21,7 @@ Jordan Waughtal
 I am the founder of the project. I mainly contribute to the physical construction and documentation. I make all purchases and maintain the ledger.  I also control the master development branch. (I have final say in all changes made to the project.)  I also spread the word about the project over the internet to develop interest.
 
 Ian Cromheecke
-I am supporting the founder of the project.  I will mainly contribute to some of the physical construction and also help on the documentation and get the results and test the system to make sure everything is working.  I will do my best to follow the leader and give my leader as much help as he can so that we can succeed this project together. 
+I am supporting the founder of the project.  I will mainly contribute to some of the physical construction and also help on the documentation and get the results and test the system to make sure everything is working. Secondly,  I will do my best to follow the Jordan and give my leader as much help as he can so that we can succeed this project together. 
 
 Objectives:
 
