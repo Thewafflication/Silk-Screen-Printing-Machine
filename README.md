@@ -5,8 +5,8 @@ I am a student at Western Technical College, pursuing an Associates of Science i
 ## Goal: 
 
 I want to build a device that can silk screen laminate copper boards, with very little user intervention. The invention will be developed in ten phases. The device will be created using only open source tools, and the device will be open source. The design is released under the Tuscan Amataur Packet Radio Open Hardware License Version 1.0, and the firmware is released under the GNU Public License Version 3.
-https://www.tapr.org/TAPR_Open_Hardware_License_v1.0.txt
-
+TAPR OHL: https://www.tapr.org/TAPR_Open_Hardware_License_v1.0.txt
+GPL:      https://www.gnu.org/licenses/gpl-3.0.txt
 
 ## Requirements:
 
