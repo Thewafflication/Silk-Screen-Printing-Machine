@@ -1,11 +1,12 @@
 Create a detailed description of your project. Including but not limited to project objectives, team members, and their specific responsibilities, how you will measure your goals. Ideally, your project should be something that can be done in phases. Start with something basic get it working then add the next phase. Include each phase in the report. This is not a document that can be created in 30 min. The better you do on this report, the easier the remaining documents will be to create. You are not "locked" into the contents of this report. The project cannot be all hardware or software but can be up to75% of one type. You also must have a minimum of approximately 25% original material. If you use circuits or programs from the web, you must give credit to the author or cite the website. See Westerns Academic Dishonesty Statement in the syllabus. Due 1/10, 12:40 PM
 
-We are students at Western Technical College, pursuing Associates of Science in Electrical and Computer Engineering Technology degree.  In our final term, we are taking a capstone project course.  In this course, our skills will be demonstrated, and further developed.
+I am a student at Western Technical College, pursuing an Associates of Science in Electrical and Computer Engineering Technology degree.  In my final term, I am taking a capstone project course.  In this course, my skills will be demonstrated, and further developed.
 
 ## Goal: 
 
-We want to build a device that can silk screen laminate copper boards, with very little user intervention. The invention will be developed in //TODO phases. The device will be created using only open source tools, and the device will be released under the TAPR OHL version 1.0.
+I want to build a device that can silk screen laminate copper boards, with very little user intervention. The invention will be developed in ten phases. The device will be created using only open source tools, and the device will be open source. The design is released under the Tuscan Amataur Packet Radio Open Hardware License Version 1.0, and the firmware is released under the GNU Public License Version 3.
 https://www.tapr.org/TAPR_Open_Hardware_License_v1.0.txt
+
 
 ## Requirements:
 
