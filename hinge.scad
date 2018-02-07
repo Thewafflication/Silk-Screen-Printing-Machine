@@ -1,4 +1,4 @@
-$fn = 100;
+$fn = 80;
 use <./modules/hingePairBase.scad>;
 
 

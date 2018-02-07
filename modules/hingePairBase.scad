@@ -29,7 +29,7 @@ http://www.thingiverse.com/bagelturf/
 
 
 // Fidelity of cylinders
-$fs = 0.5;
+$fn = 80;
 
 // Creates a clearance block that removes part of the hinge and the plate so that the opposite hinge has space
 module clearanceBlock(clearanceLength,clearanceHeight,hingeOutsideDiameter,hingePlateGap)

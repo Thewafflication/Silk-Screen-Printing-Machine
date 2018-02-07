@@ -1,4 +1,4 @@
-$fn = 100;
+$fn = 80;
 include <./modules/wood.scad>;
 use <./rollerAssembly.scad>;
 horizontalLength = 36;
@@ -22,7 +22,7 @@ module table(){
     
     translate([0,(19-1.5+3.5)*mmToIn,(18-3.5)*mmToIn])rotate([90,0,90])2x4((3+19));
     
-    translate([two,-5*mmToIn,36*mmToIn])rotate([-90,0,0])rollerAssembly();
-    translate([19*mmToIn-2.5*mmToIn-two,-5*mmToIn,36*mmToIn])rotate([-90,0,0])rollerAssembly();
+    translate([two,-5*mmToIn,36*mmToIn])rotate([90,0,0])rollerAssembly();
+    translate([19*mmToIn-2.5*mmToIn-two,-5*mmToIn,36*mmToIn])rotate([90,180,0])rollerAssembly();
 }
 table();

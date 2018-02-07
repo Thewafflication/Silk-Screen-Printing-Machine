@@ -1,4 +1,4 @@
-$fn = 10;
+$fn = 80;
 include <./modules/wood.scad>
 module bearing()
 {

@@ -1,4 +1,4 @@
-$fn = 100;
+$fn = 80;
 
 diameter = 8; //8mm
 height = 30;  //30mm

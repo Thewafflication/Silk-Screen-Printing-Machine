@@ -1,4 +1,4 @@
-$fn = 100;
+$fn = 80;
 use <hinge.scad>;
 use <frame.scad>;
 use <table.scad>;

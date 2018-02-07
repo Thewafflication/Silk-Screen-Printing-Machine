@@ -1,4 +1,4 @@
-$fn = 100;
+$fn = 80;
 include <../modules/wood.scad>
 
 drillDepth = 12;

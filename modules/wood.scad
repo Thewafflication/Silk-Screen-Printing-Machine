@@ -1,4 +1,4 @@
-$fn = 10;
+$fn = 80;
 mmToIn = 25.4;
 one    = 0.75 * mmToIn;
 two    = 1.5  * mmToIn;
